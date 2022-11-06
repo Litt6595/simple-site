@@ -968,7 +968,7 @@ body {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
+  border: 3px solid #ed3c0d;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -979,17 +979,17 @@ body {
   font-size: 14px;
 }
 #contact .php-email-form input::focus, #contact .php-email-form textarea::focus {
-  background-color: #2dc997;
+  background-color: #ed3c0d;
 }
 #contact .php-email-form button[type=submit] {
-  background: #2dc997;
+  background: #ed3c0d;
   border: 0;
   padding: 10px 24px;
   color: #fff;
   transition: 0.4s;
 }
 #contact .php-email-form button[type=submit]:hover {
-  background: #51d8ad;
+  background: #ed3c0d;
 }
 @-webkit-keyframes animate-loading {
   0% {
