@@ -775,7 +775,7 @@ body {
   transition: ease-in-out 0.3s;
 }
 #portfolio .portfolio-item .portfolio-info .preview-link:hover, #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #a4ebd4;
+  color: #ed3c0d;
 }
 #portfolio .portfolio-item .portfolio-info .details-link {
   right: 15px;
