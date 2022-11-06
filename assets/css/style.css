@@ -731,7 +731,7 @@ body {
 }
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #2dc997;
+  background: #ed3c0d;
 }
 #portfolio #portfolio-flters li:last-child {
   margin-right: 0;
